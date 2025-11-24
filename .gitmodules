@@ -1,0 +1,3 @@
+[submodule "opencodeV3"]
+	path = opencodeV3
+	url = https://github.com/AuroraRAS/opencodeV3.git
